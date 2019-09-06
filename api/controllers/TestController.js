@@ -8,7 +8,7 @@
 module.exports = {
   index: async function (req, res) {
     return res.json({
-      name: "kimi"
+      Message: "Hello Kimi"
     });
   }
 };
