@@ -38,5 +38,13 @@ module.exports.routes = {
     controller: 'test',
     action: 'index'
   },
+  'POST /api/login': {
+    controller: 'test',
+    action: 'login'
+  },
+  'POST /api/user/list': {
+    controller: 'test',
+    action: 'userList'
+  },
 
 };
