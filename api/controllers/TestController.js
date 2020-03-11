@@ -20,6 +20,7 @@ module.exports = {
         avatarPath: "https://appdividend.com/wp-content/uploads/2019/03/Javascript-Array-Includes-Tutorial.png",
         token: "aaa-aaa-aaa",
         expirationDate: "2020-12-13 02:56:19",
+        lang: "en",
         allowURL: {
           "/test/calendar": 1,
           "/admin/home": 2
